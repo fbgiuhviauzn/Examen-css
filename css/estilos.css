@@ -24,7 +24,7 @@ header{
     min-height: 500px;
     margin: 0;
 
-    background-image: url(/img/imagen1.png);
+    background-image: url(../img/imagen1.png);
 
     background-size: cover;
     background-repeat: no-repeat;
